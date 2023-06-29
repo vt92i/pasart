@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "ksl-himaforka"
+  },
+  "targets": {
+    "ksl-himaforka": {
+      "hosting": {
+        "pasart": [
+          "pasart"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
